@@ -13,7 +13,6 @@ Job :
     - apply job 
     - post job
 
-
 Blog : 
     - title
     - description 
